@@ -1,4 +1,4 @@
-# tgbot
+# GROUP-MANAGER BOT
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
@@ -17,9 +17,9 @@ Alternatively, [find me on telegram](https://t.me/IAM_A_JOKER)! (Keep all suppor
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkBotmakers/tgbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkBotmakersnew/GROUP-MANAGER)
 
-There is also a torial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
+[There is also a torial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
 
 ## Starting the bot.
 
